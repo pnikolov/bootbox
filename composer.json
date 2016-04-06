@@ -1,0 +1,23 @@
+{
+  "name": "pnikolov/bootbox",
+  "type": "component",
+  "description": "Slim wrappers for Bootbox. Bootbox - JavaScript alert(), confirm() and other flexible dialogs using the Bootstrap framework",
+  "keywords": ["bootbox", "modal", "alert", "confirm", "bootstrap components"],
+  "homepage": "http://bootboxjs.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nick Payne",
+      "email": "nick@kurai.co.uk"
+      "role": "Author"
+    },
+    {
+      "name": "Plamen Nikolov",
+      "email": "plamen@nikolov.biz"
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "components/bootstrap": "3.x"
+  }
+}
