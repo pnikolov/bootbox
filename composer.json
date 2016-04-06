@@ -8,12 +8,12 @@
   "authors": [
     {
       "name": "Nick Payne",
-      "email": "nick@kurai.co.uk"
+      "email": "nick@kurai.co.uk",
       "role": "Author"
     },
     {
       "name": "Plamen Nikolov",
-      "email": "plamen@nikolov.biz"
+      "email": "plamen@nikolov.biz",
       "role": "Maintainer"
     }
   ],
