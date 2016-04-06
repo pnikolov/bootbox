@@ -1,6 +1,6 @@
 # Wrapper for bootbox - Bootstrap powered alert, confirm and flexible dialog boxes
 
-Bootbox wrapper. Slim version optimized for deployment via _Composer_.
+Slim Wrapper of Bootbox optimized for deployment via _Composer_.
 
 *** 
 
